@@ -1,0 +1,6 @@
+login_user: root
+login_host: db-shellscript.sdevops.store
+login_password: ExpenseApp@1
+DB_HOST: db-shellscript.sdevops.store
+app_location: /app
+component: backend
